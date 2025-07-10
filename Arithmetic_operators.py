@@ -1,0 +1,10 @@
+a=100
+b=20
+print(a+b)
+print(a-b)
+print(a*b)
+print(a%b)
+print(10//3)
+print(5**2)
+print(5*5)
+print(3**3)
